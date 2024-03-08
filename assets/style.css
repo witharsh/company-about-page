@@ -182,7 +182,7 @@ li{
     height: 70px;
     background-position: center;
     background-size: cover;
-    background-image: url(./img/profileImg.jpg);
+    background-image: url(assets/profileImg.jpg);
     border-radius: 50%;
 }
 .sign{
@@ -190,7 +190,7 @@ li{
     height: 70px;
     background-position: center;
     background-size: cover;
-    background-image: url(./img/sign.png);
+    background-image: url(assets/sign.png);
     
 }
 .star{
@@ -207,7 +207,6 @@ li{
         padding-right: 0px !important;    
     }
     .col-left{
-        background-image: url(./img/main.png);
         margin-top:40px !important;
     }
     .detailRow{
